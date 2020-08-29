@@ -19,6 +19,6 @@ Currently PMSF still uses some local static files (eggs, grunts etc) so you may 
 
 Simply replace / rename any images you want from the Alternative Egg designs, grunts subfolder, or misc etc (eg Slider images for nests and stardust)
 
-You may need to rebuild PMSF after reaplcing images, same as when you update your build.
+You may need to rebuild PMSF after replacing images, same as when you update your build.
 
 npm install && npm run build
