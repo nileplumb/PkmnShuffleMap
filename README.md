@@ -22,3 +22,11 @@ Simply replace / rename any images you want from the Alternative Egg designs, gr
 You may need to rebuild PMSF after replacing images, same as when you update your build.
 
 npm install && npm run build
+
+
+Any donations very welcome if you want to support my personal morale / upkeep of image repo's
+
+Paypal:
+https://paypal.me/NilePlumb
+Bitcoin:
+1L6XpE4AU8XfRGyxPWWaLA4VacSw9vCBRx
