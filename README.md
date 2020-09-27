@@ -23,6 +23,7 @@ You may need to rebuild PMSF after replacing images, same as when you update you
 
 npm install && npm run build
 
+Most shuffle shiny recolours with thanks to noodnood966 from Deviantart
 
 Any donations very welcome if you want to support my personal morale / upkeep of image repo's
 
