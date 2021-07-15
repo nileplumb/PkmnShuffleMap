@@ -47,3 +47,4 @@ function dirtree($dir, $ignoreEmpty=false) {
 
     return array_merge($dirs, $files);
 }
+
