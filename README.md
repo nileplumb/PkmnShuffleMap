@@ -1,7 +1,6 @@
 Pokémon Shuffle Icon Repository for Various Maps and Bots
 
-**UICONS RAW LINK https://raw.githubusercontent.com/nileplumb/PkmnShuffleMap/master/UICONS/index.json
-**
+**UICONS RAW LINK** https://raw.githubusercontent.com/nileplumb/PkmnShuffleMap/master/UICONS/index.json
 
 NovaBot set iconurl https://raw.githubusercontent.com/nileplumb/PkmnShuffleMap/master/NOVA_Sprites/
 
