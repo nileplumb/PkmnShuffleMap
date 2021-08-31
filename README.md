@@ -15,3 +15,12 @@ Example: https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_H
 **Coming Soon: Pokemon Shuffle Style Half Shiny 256x256 + Sparkles**
 
 ![113](https://user-images.githubusercontent.com/80012316/131270549-e12bfa71-0f1c-413b-b158-74a7f6739d85.png)
+
+
+Credits:
+
+NilePlumb - All Costumes & Some Gen 8 Sprites (https://www.deviantart.com/nileplumb/gallery) - https://paypal.me/NilePlumb
+
+Noodnood966 - Almost All Shiny Sprites (https://www.deviantart.com/noodnood966/gallery/)
+
+Cactus-Senpai - Most Gen 8 Non-Shiny Sprites (https://www.deviantart.com/cactus-senpai/gallery)
