@@ -26,7 +26,9 @@ You may need to rebuild PMSF after replacing images, same as when you update you
 npm install && npm run build
 
 Many many costumes and other custom forms created by myself
+
 Most Gen 8 Designs by Cactus-Senpai on DeviantArt
+
 Most shuffle shiny recolours by noodnood966 from DeviantArt
 
 Any donations very welcome if you want to support my personal morale / upkeep of image repo's
