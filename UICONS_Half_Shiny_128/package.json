@@ -1,0 +1,12 @@
+{
+  "name": "wwm-uicons",
+  "version": "1.0.0",
+  "description": "Icon repo for WWM Projects",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node -e 'require(\"./index\").update()'"
+  },
+  "author": "WWM",
+  "license": "MIT"
+}
